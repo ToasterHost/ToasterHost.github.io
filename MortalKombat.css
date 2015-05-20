@@ -1,23 +1,41 @@
 p {
-	color: red;
+	color: green;
+	width: 1000px;
 }
 
-h1 {
-	color: green;
+h2 {
+	clear: left;
+	text-align: center;
 }
+
+h1 a {
+	text-decoration: none; 
+	color: #131222;
+}
+ 
+ 
  
  body {
-	background-color: 	#051328;
+	background-color: 	#2D2C3C;
  }
- 
- h1 {
-	font-family: arial, helvetica,
-	sans-serif;
+ 	
+
+#navBar ul li a {
+	text-decoration: none;
+	background-color: #051328;
+	color: #7A1616;
+	float: left;
+	display: block;
+    width: 85px;
 }
 
-#importantQuote {
-	border: 100px;
-	border-style: dashed;
-	border-width: 2px;
-	border-color: red;
-	}
+#navBar ul li a:hover {
+	background-color: #59559F;
+}
+
+#navBar ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	
+}
