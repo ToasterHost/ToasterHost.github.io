@@ -1,15 +1,17 @@
 p {
 	color: green;
 	width: 1000px;
+	text-align: center;
 }
 
 h2 {
-	font-family: 'Gloria Hallelujah', cursive;
+	font-family: 'Metamorphous', cursive;
 	clear: left;
 	text-align: center;
 }
 
 h1 a {
+	font-family: 'Slabo 27px', serif;
 	text-decoration: none; 
 	color: #131222;
 }
@@ -45,4 +47,8 @@ h1 a {
 	margin: 0;
 	padding: 0;
 	
+}
+
+.centeredImages{
+	margin: 0 auto;
 }
