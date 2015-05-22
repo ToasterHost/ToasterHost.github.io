@@ -4,6 +4,7 @@ p {
 }
 
 h2 {
+	font-family: 'Gloria Hallelujah', cursive;
 	clear: left;
 	text-align: center;
 }
@@ -15,18 +16,24 @@ h1 a {
  
  
  
- body {
+ body { 
+	margin: 40px 100px;
+	border: solid;
+	padding: 0 30px;
 	background-color: 	#2D2C3C;
- }
- 	
+}
+	
 
-#navBar ul li a {
+
+ 
+#navBar ul li a{
 	text-decoration: none;
 	background-color: #2D2C3C;
 	color: #7A1616;
 	float: left;
 	display: block;
     width: 85px;
+	font-weight: bold;
 }
 
 #navBar ul li a:hover {
