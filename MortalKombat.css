@@ -19,6 +19,9 @@ h1 a {
 
 }
  
+h1 a:hover {
+	color: #6E6C50;
+}
  
  
  body { 
