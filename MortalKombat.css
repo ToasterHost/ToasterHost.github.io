@@ -84,3 +84,6 @@ padding: 0;
 #Links a{
 	text-decoration: none;
 }
+
+#Links a:hover{
+	color: #6E6C50;
