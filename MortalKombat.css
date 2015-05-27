@@ -81,9 +81,14 @@ margin: 0;
 padding: 0;
 }
 
-#Links a{
+.Links a{
 	text-decoration: none;
 }
 
-#Links a:hover{
+.Links a:hover{
 	color: #6E6C50;
+}
+
+#Header{
+	margin-top: 40px;
+}
