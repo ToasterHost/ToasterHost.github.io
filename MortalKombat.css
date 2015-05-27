@@ -70,7 +70,7 @@ h1 a:hover {
     text-align:center
 }
 
-#Controls{
+#Controls ul li{
 	text-decoration: none;
 	display: block;
 }
